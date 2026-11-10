@@ -1,0 +1,1 @@
+opencode --provider openai --model openai/qwen2.5-coder:14b --disable-gpu
